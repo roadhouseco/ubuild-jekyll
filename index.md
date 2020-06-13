@@ -27,7 +27,7 @@ page_sections:
     move to the digital ecosystem.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: "/hello"
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"

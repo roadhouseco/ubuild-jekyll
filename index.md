@@ -7,8 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/"
-    link_text: Shop Now
+  - link: "/our-services"
+    link_text: Our Services
   - link: "/"
     link_text: Home
   - link: "#features"

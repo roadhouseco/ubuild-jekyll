@@ -8,6 +8,8 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
+    link_text: Shop Now
+  - link: "/"
     link_text: Home
   - link: "#features"
     link_text: Features

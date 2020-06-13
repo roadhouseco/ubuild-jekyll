@@ -30,8 +30,8 @@ page_sections:
     url: "/Our Services"
     button_text: Know more about our services
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2020/06/13/roadhouse-co.png"
+    alt_text: Get Roadhouse E-commerce
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1

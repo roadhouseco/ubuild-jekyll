@@ -32,7 +32,7 @@ page_sections:
   image:
     image: "/uploads/2020/06/13/roadhouse-co.png"
     alt_text: Get Roadhouse E-commerce
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left

@@ -9,7 +9,7 @@ page_sections:
     headline: Hello There
     content: Lets see if this works
   col_2:
-    headline: ''
-    content: ''
+    headline: Ok
+    content: I think this works
 
 ---

@@ -27,8 +27,8 @@ page_sections:
     move to the digital ecosystem.
   cta:
     enabled: true
-    url: "/hello"
-    button_text: 'See on GitHub '
+    url: "/Our Services"
+    button_text: Know more about our services
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
